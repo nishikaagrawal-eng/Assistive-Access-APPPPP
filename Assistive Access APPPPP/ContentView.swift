@@ -313,5 +313,6 @@ private struct AssistiveContact: Identifiable {
 
 #Preview("Assistive Access", traits: .assistiveAccess) {
     AssistiveAccessContentView()
+    //hi
 }
 
